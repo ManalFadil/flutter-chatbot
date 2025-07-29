@@ -5,10 +5,10 @@ Application Flutter qui utilise un modèle local (`phi3`) via Ollama pour simule
 ## 🚀 Aperçu de l’application
 
 ### Page principale
-![Bonjour](images/cap1.png)
+![Bonjour](captures/cap1.png)
 
 ### Exemple de conversation
-![Petite Conversation](images/cap2.png)
+![Petite Conversation](captures/cap2.png)
 
 ## 🛠 Fonctionnalités
 
